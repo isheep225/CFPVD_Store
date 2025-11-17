@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Magasin VR",
+    "packageName": "com.CFPFV.MagasinVR",
+    "version": 1,
+    "apk": "https://raw.githubusercontent.com/isheep225/CFPVD_Store/main/NewPipe_v0.28.0.apk",
+    "description": "Une application pour mettre en pratique les compétences de disposition en Vente-conseil. Placez du mobilier, puis des produits, dans un magasin virtuel dans lequel vous pouvez ensuite naviguer à votre guise.",
+    "thumbnail": "https://raw.githubusercontent.com/isheep225/CFPVD_Store/main/vignetteMagasinVR.png",
+    "techTags": ["VR"],
+    "domainTags": ["Vente-conseil"]
+  }
+]
